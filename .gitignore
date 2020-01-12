@@ -12,3 +12,6 @@ data/steps/**
 !data/steps/.gitkeep
 data/labels/**
 !data/labels/.gitkeep
+
+# outputs
+outputs/
