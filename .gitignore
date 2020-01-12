@@ -1,3 +1,14 @@
+# python
 **/__pycache__/**
 .venv
 venv/
+
+# data
+data/heart_rate/**
+!data/heart_rate/.gitkeep
+data/motion/**
+!data/motion/.gitkeep
+data/steps/**
+!data/steps/.gitkeep
+data/labels/**
+!data/labels/.gitkeep
